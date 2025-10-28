@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/oussama-boumallouka-66b6b029b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oussama boumallouka" height="30" width="40" /></a>
-<a href="https://fb.com/oussama boumallouka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="oussama boumallouka" height="30" width="40" /></a>
+<a href="https://fb.com/oussama boumallouka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="oussama.boumallouka" height="30" width="40" /></a>
 <a href="https://instagram.com/oussama boumallouka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oussama boumallouka" height="30" width="40" /></a>
 </p>
 
